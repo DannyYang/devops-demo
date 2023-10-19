@@ -18,7 +18,7 @@ spec:
         vote-config-version: "322ae6"
     spec:
       containers:
-      - image: yjring/vote-api-test:dev-53301b
+      - image: yjring/vote-api-test:dev-322ae6
         name: vote-api
         imagePullPolicy: Always
         resources:
